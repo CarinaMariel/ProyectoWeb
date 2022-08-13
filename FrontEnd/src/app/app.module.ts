@@ -11,6 +11,7 @@ import { EstudiosCursadosComponent } from './componentes/estudios-cursados/estud
 import { HabilidadesComponent } from './componentes/habilidades/habilidades.component';
 import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
 import { BotonNavComponent } from './componentes/boton-nav/boton-nav.component';
+import { HttpClientModule} from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { BotonNavComponent } from './componentes/boton-nav/boton-nav.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
