@@ -1,0 +1,26 @@
+{
+    "miFotoPresentacion"    : "/assets/Imagenes/fotopresentacion.png",
+    "miFotoPerfil"          : "/assets/Imagenes/fotoPerfil2.jpg",
+    "miNombre"              : "Carina Mariel Strada",
+    "miTitulo"              : "Licenciada en Matematicas Aplicada",
+    "datosInfProfesional"   : "Aqui va la info Profesional",   
+
+    "ExperienciaLaboral"  :[
+                            {
+                                "logo"  : "/assets/Imagenes/banco-bica-800x450.png",
+                                "ente"  : "Banco Bica",
+                                "info"  : "Responsable del Sector Banca Electrónica en Banco BICA S.A. con experiencia en desarrollo de proyectos relacionados a Home Banking - Cajeros Automáticos - Canales Electrónicos en general. (1997 -2019)."
+                            },
+                            {
+                                "logo"  : "/assets/Imagenes/ade.jpg",
+                                "ente"  : "Instituto Superior de Ciencias Comerciales A.D.E.",
+                                "info"  : "Docente en el Instituto Superior de Ciencias Comerciales A.D.E. en las carreras Técnico Superior en Gestión Empresaria, Técnico Superior en Comercio Internacional, Técnico Superior en Marketing. (1997 - 2017). Asignatura Matemática."
+                            },
+                            {
+                                "logo"  : "/assets/Imagenes/lasalle.jpg" ,
+                                "ente"  : "Colegio La Salle Jonshon",
+                                "info"  : "Docente en la Escuela Secundaria Hnos de La Salle - Turno Mañana y Turno Tarde, Terminalidades “Ciencias Sociales y Humanidades”, “Economia y Administración” y “Ciencias Naturales”.  (Matemática)."
+                            }
+       
+    ]
+}
